@@ -1,5 +1,9 @@
 # 发布到 GitHub（仓库已在本地建好，只差认证）
 
+> **已完成（2026-11-10）**：SSH 公钥已授权，仓库已推送到
+> https://github.com/codeforbuddy/exam-analyzer（main，22 个文件）。
+> 本文件保留给以后新建仓库时参考。
+
 本地仓库：`C:\Users\Administrator\Documents\deepseek-harness\default-workspace\exam-analyzer-repo`
 已完成：`git init -b main`、`.gitignore`、`LICENSE`(MIT)、`README.md`、首次提交 `3df460b`。
 远端已设：`origin = git@github.com:codeforbuddy/exam-analyzer.git`
