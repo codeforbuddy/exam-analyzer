@@ -1,0 +1,4 @@
+- insert:
+    - id: exam-analyzer
+      name: '@local/exam-analyzer'
+      config: {}
