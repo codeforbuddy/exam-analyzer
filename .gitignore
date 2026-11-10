@@ -16,8 +16,8 @@ desktop.ini
 ~$*
 
 # 本地题库（含个人做题数据，不要提交）
-question-bank.json
-images/
+/question-bank.json
+/images/
 
 # Python 虚拟环境
 .venv*/
