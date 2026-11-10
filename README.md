@@ -8,6 +8,19 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![deps](https://img.shields.io/badge/runtime%20deps-0-success)
 
+## 界面
+
+左侧是试卷原图，框选一道题，右侧立刻出结果：
+
+![框选解析](docs/images/panel.png)
+
+<p align="center">
+  <img src="docs/images/similar.png" width="49%" alt="相似题" />
+  <img src="docs/images/bank.png" width="49%" alt="本地题库" />
+</p>
+
+<p align="center"><sub>左：3 道相似题（含完整选项与答案）　右：按学科分类的本地题库</sub></p>
+
 ---
 
 ## 功能
